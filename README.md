@@ -1,3 +1,9 @@
+DEPRECATED - DO NOT USE
+=======================
+
+Upstream has released version 4.0.0, use that!
+This fork was created to (temporarily) support upgrades to higher versions of nextcloud, this is no longer needed with the upstream release.
+
 External user authentication
 ============================
 
